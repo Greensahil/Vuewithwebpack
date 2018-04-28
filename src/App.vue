@@ -6,8 +6,11 @@
 </template>
 
 <script>
+import sahil from './sahil.vue'
 export default {
-
+  components:{
+    'sahil':sahil
+  },
   data () {
     return {
      title:"Ninja app"
