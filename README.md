@@ -1,7 +1,8 @@
 # playlist
 
 > A Vue.js project
-
+    This is a basic project made using Vue js that consists of webpack and other npm dependencies
+    
 ## Build Setup
 
 ``` bash
